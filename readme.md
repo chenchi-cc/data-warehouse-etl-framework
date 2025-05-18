@@ -1,4 +1,4 @@
-## 一种代码库中直接写sql就能运行spark程序的框架
+# 一种直接写sql就能运行spark程序的代码架构
 ## 基本使用
 按照如下提交方式，开发直接在resources/com/darrenchan/sqls下面开发sql即可，不用关心scala代码
 ```shell
