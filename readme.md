@@ -1,5 +1,6 @@
+## 一种代码库中直接写sql就能运行spark程序的框架
 ## 基本使用
-按照如下提交方式
+按照如下提交方式，开发直接在resources/com/darrenchan/sqls下面开发sql即可，不用关心scala代码
 ```shell
 export HADOOP_USER_NAME=chenchi; \
 export HADOOP_USER_RPCPASSWORD=xxxxx; \
